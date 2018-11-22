@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1076505808687:jetbrains.mps.baseLanguage.structure.WhileStatement" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,170,0" name="ComputerLanguage.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,62,0" name="ComputerLanguage.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="14,0,285,0" name="ComputerLanguage.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/1186668138191">
+    <file name="Decimal_PropertySupport.java">
+      <node id="1186668138191" at="8,44,9,28" concept="6" />
+      <node id="1186668138191" at="10,24,11,21" concept="2" />
+      <node id="1186668138191" at="12,12,13,24" concept="2" />
+      <node id="1186668138191" at="14,5,15,49" concept="7" />
+      <node id="1186668138191" at="12,10,14,5" concept="0" />
+      <node id="1186668138191" at="9,28,14,5" concept="4" />
+      <node id="1186668138191" at="8,0,17,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="1186668138191" at="10,24,11,21" />
+      <scope id="1186668138191" at="12,12,13,24" />
+      <scope id="1186668138191" at="8,44,15,49">
+        <var name="testValue" id="1186668138191" />
+      </scope>
+      <scope id="1186668138191" at="8,0,17,0">
+        <var name="value" id="1186668138191" />
+      </scope>
+      <unit id="1186668138191" at="7,0,18,0" name="ComputerLanguage.structure.Decimal_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/2074569846490189618">
+    <file name="MotherBoardName.java">
+      <node id="2074569846490189618" at="18,0,19,0" concept="3" trace="myName" />
+      <node id="2074569846490189618" at="19,27,20,18" concept="7" />
+      <node id="2074569846490189618" at="22,0,23,0" concept="3" trace="myValue" />
+      <node id="2074569846490189618" at="23,54,24,18" concept="2" />
+      <node id="2074569846490189618" at="24,18,25,20" concept="2" />
+      <node id="2074569846490189618" at="27,28,28,19" concept="7" />
+      <node id="2074569846490189618" at="30,36,31,19" concept="7" />
+      <node id="2074569846490189618" at="33,54,34,90" concept="6" />
+      <node id="2074569846490189618" at="34,90,35,90" concept="2" />
+      <node id="2074569846490189618" at="35,90,36,86" concept="2" />
+      <node id="2074569846490189618" at="36,86,37,85" concept="2" />
+      <node id="2074569846490189618" at="37,85,38,83" concept="2" />
+      <node id="2074569846490189618" at="38,83,39,78" concept="2" />
+      <node id="2074569846490189618" at="39,78,40,86" concept="2" />
+      <node id="2074569846490189618" at="40,86,41,73" concept="2" />
+      <node id="2074569846490189618" at="41,73,42,16" concept="7" />
+      <node id="2074569846490189618" at="44,46,45,57" concept="7" />
+      <node id="2074569846490189618" at="48,24,49,42" concept="7" />
+      <node id="2074569846490189618" at="51,89,52,59" concept="7" />
+      <node id="2074569846490189618" at="54,85,55,55" concept="7" />
+      <node id="2074569846490189618" at="57,84,58,54" concept="7" />
+      <node id="2074569846490189618" at="60,82,61,52" concept="7" />
+      <node id="2074569846490189618" at="63,77,64,47" concept="7" />
+      <node id="2074569846490189618" at="66,85,67,55" concept="7" />
+      <node id="2074569846490189618" at="69,72,70,42" concept="7" />
+      <node id="2074569846490189618" at="71,5,72,40" concept="7" />
+      <node id="2074569846490189618" at="19,0,22,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="2074569846490189618" at="27,0,30,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="2074569846490189618" at="30,0,33,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="2074569846490189618" at="44,0,47,0" concept="8" trace="getDefault#()LComputerLanguage/structure/MotherBoardName;" />
+      <node id="2074569846490189618" at="47,58,50,5" concept="4" />
+      <node id="2074569846490189618" at="50,5,53,5" concept="4" />
+      <node id="2074569846490189618" at="53,5,56,5" concept="4" />
+      <node id="2074569846490189618" at="56,5,59,5" concept="4" />
+      <node id="2074569846490189618" at="59,5,62,5" concept="4" />
+      <node id="2074569846490189618" at="62,5,65,5" concept="4" />
+      <node id="2074569846490189618" at="65,5,68,5" concept="4" />
+      <node id="2074569846490189618" at="68,5,71,5" concept="4" />
+      <node id="2074569846490189618" at="23,0,27,0" concept="1" trace="MotherBoardName#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="2074569846490189618" at="33,0,44,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="2074569846490189618" at="47,0,74,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/MotherBoardName;" />
+      <scope id="2074569846490189618" at="19,27,20,18" />
+      <scope id="2074569846490189618" at="27,28,28,19" />
+      <scope id="2074569846490189618" at="30,36,31,19" />
+      <scope id="2074569846490189618" at="44,46,45,57" />
+      <scope id="2074569846490189618" at="48,24,49,42" />
+      <scope id="2074569846490189618" at="51,89,52,59" />
+      <scope id="2074569846490189618" at="54,85,55,55" />
+      <scope id="2074569846490189618" at="57,84,58,54" />
+      <scope id="2074569846490189618" at="60,82,61,52" />
+      <scope id="2074569846490189618" at="63,77,64,47" />
+      <scope id="2074569846490189618" at="66,85,67,55" />
+      <scope id="2074569846490189618" at="69,72,70,42" />
+      <scope id="2074569846490189618" at="23,54,25,20" />
+      <scope id="2074569846490189618" at="19,0,22,0" />
+      <scope id="2074569846490189618" at="27,0,30,0" />
+      <scope id="2074569846490189618" at="30,0,33,0" />
+      <scope id="2074569846490189618" at="44,0,47,0" />
+      <scope id="2074569846490189618" at="23,0,27,0">
+        <var name="name" id="2074569846490189618" />
+        <var name="value" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="33,54,42,16">
+        <var name="list" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="33,0,44,0" />
+      <scope id="2074569846490189618" at="47,58,72,40" />
+      <scope id="2074569846490189618" at="47,0,74,0">
+        <var name="value" id="2074569846490189618" />
+      </scope>
+      <unit id="2074569846490189618" at="9,0,75,0" name="ComputerLanguage.structure.MotherBoardName" />
+    </file>
+    <file name="MotherBoardName_PropertySupport.java">
+      <node id="2074569846490189618" at="11,24,12,18" concept="7" />
+      <node id="2074569846490189618" at="13,5,14,107" concept="6" />
+      <node id="2074569846490189618" at="15,33,16,50" concept="6" />
+      <node id="2074569846490189618" at="17,45,18,20" concept="7" />
+      <node id="2074569846490189618" at="20,5,21,17" concept="7" />
+      <node id="2074569846490189618" at="24,24,25,18" concept="7" />
+      <node id="2074569846490189618" at="26,5,27,107" concept="6" />
+      <node id="2074569846490189618" at="28,33,29,50" concept="6" />
+      <node id="2074569846490189618" at="30,45,31,43" concept="7" />
+      <node id="2074569846490189618" at="33,5,34,16" concept="7" />
+      <node id="2074569846490189618" at="36,49,37,65" concept="6" />
+      <node id="2074569846490189618" at="38,27,39,32" concept="7" />
+      <node id="2074569846490189618" at="40,5,41,14" concept="7" />
+      <node id="2074569846490189618" at="10,44,13,5" concept="4" />
+      <node id="2074569846490189618" at="16,50,19,7" concept="4" />
+      <node id="2074569846490189618" at="23,47,26,5" concept="4" />
+      <node id="2074569846490189618" at="29,50,32,7" concept="4" />
+      <node id="2074569846490189618" at="37,65,40,5" concept="4" />
+      <node id="2074569846490189618" at="14,107,20,5" concept="9" />
+      <node id="2074569846490189618" at="27,107,33,5" concept="9" />
+      <node id="2074569846490189618" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="2074569846490189618" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="2074569846490189618" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="2074569846490189618" at="11,24,12,18" />
+      <scope id="2074569846490189618" at="17,45,18,20" />
+      <scope id="2074569846490189618" at="24,24,25,18" />
+      <scope id="2074569846490189618" at="30,45,31,43" />
+      <scope id="2074569846490189618" at="38,27,39,32" />
+      <scope id="2074569846490189618" at="15,33,19,7">
+        <var name="constant" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="28,33,32,7">
+        <var name="constant" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="36,49,41,14">
+        <var name="constant" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="36,0,43,0">
+        <var name="value" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="10,44,21,17">
+        <var name="constants" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="23,47,34,16">
+        <var name="constants" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="10,0,23,0">
+        <var name="value" id="2074569846490189618" />
+      </scope>
+      <scope id="2074569846490189618" at="23,0,36,0">
+        <var name="value" id="2074569846490189618" />
+      </scope>
+      <unit id="2074569846490189618" at="9,0,44,0" name="ComputerLanguage.structure.MotherBoardName_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/2074569846490712800">
+    <file name="CPUName.java">
+      <node id="2074569846490712800" at="17,0,18,0" concept="3" trace="myName" />
+      <node id="2074569846490712800" at="18,27,19,18" concept="7" />
+      <node id="2074569846490712800" at="21,0,22,0" concept="3" trace="myValue" />
+      <node id="2074569846490712800" at="22,46,23,18" concept="2" />
+      <node id="2074569846490712800" at="23,18,24,20" concept="2" />
+      <node id="2074569846490712800" at="26,28,27,19" concept="7" />
+      <node id="2074569846490712800" at="29,36,30,19" concept="7" />
+      <node id="2074569846490712800" at="32,46,33,74" concept="6" />
+      <node id="2074569846490712800" at="33,74,34,72" concept="2" />
+      <node id="2074569846490712800" at="34,72,35,81" concept="2" />
+      <node id="2074569846490712800" at="35,81,36,70" concept="2" />
+      <node id="2074569846490712800" at="36,70,37,70" concept="2" />
+      <node id="2074569846490712800" at="37,70,38,72" concept="2" />
+      <node id="2074569846490712800" at="38,72,39,72" concept="2" />
+      <node id="2074569846490712800" at="39,72,40,16" concept="7" />
+      <node id="2074569846490712800" at="42,38,43,39" concept="7" />
+      <node id="2074569846490712800" at="46,24,47,34" concept="7" />
+      <node id="2074569846490712800" at="49,71,50,41" concept="7" />
+      <node id="2074569846490712800" at="52,80,53,50" concept="7" />
+      <node id="2074569846490712800" at="55,69,56,39" concept="7" />
+      <node id="2074569846490712800" at="58,69,59,39" concept="7" />
+      <node id="2074569846490712800" at="61,71,62,41" concept="7" />
+      <node id="2074569846490712800" at="64,71,65,41" concept="7" />
+      <node id="2074569846490712800" at="66,5,67,32" concept="7" />
+      <node id="2074569846490712800" at="18,0,21,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="2074569846490712800" at="26,0,29,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="2074569846490712800" at="29,0,32,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="2074569846490712800" at="42,0,45,0" concept="8" trace="getDefault#()LComputerLanguage/structure/CPUName;" />
+      <node id="2074569846490712800" at="45,50,48,5" concept="4" />
+      <node id="2074569846490712800" at="48,5,51,5" concept="4" />
+      <node id="2074569846490712800" at="51,5,54,5" concept="4" />
+      <node id="2074569846490712800" at="54,5,57,5" concept="4" />
+      <node id="2074569846490712800" at="57,5,60,5" concept="4" />
+      <node id="2074569846490712800" at="60,5,63,5" concept="4" />
+      <node id="2074569846490712800" at="63,5,66,5" concept="4" />
+      <node id="2074569846490712800" at="22,0,26,0" concept="1" trace="CPUName#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="2074569846490712800" at="32,0,42,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="2074569846490712800" at="45,0,69,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/CPUName;" />
+      <scope id="2074569846490712800" at="18,27,19,18" />
+      <scope id="2074569846490712800" at="26,28,27,19" />
+      <scope id="2074569846490712800" at="29,36,30,19" />
+      <scope id="2074569846490712800" at="42,38,43,39" />
+      <scope id="2074569846490712800" at="46,24,47,34" />
+      <scope id="2074569846490712800" at="49,71,50,41" />
+      <scope id="2074569846490712800" at="52,80,53,50" />
+      <scope id="2074569846490712800" at="55,69,56,39" />
+      <scope id="2074569846490712800" at="58,69,59,39" />
+      <scope id="2074569846490712800" at="61,71,62,41" />
+      <scope id="2074569846490712800" at="64,71,65,41" />
+      <scope id="2074569846490712800" at="22,46,24,20" />
+      <scope id="2074569846490712800" at="18,0,21,0" />
+      <scope id="2074569846490712800" at="26,0,29,0" />
+      <scope id="2074569846490712800" at="29,0,32,0" />
+      <scope id="2074569846490712800" at="42,0,45,0" />
+      <scope id="2074569846490712800" at="22,0,26,0">
+        <var name="name" id="2074569846490712800" />
+        <var name="value" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="32,46,40,16">
+        <var name="list" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="32,0,42,0" />
+      <scope id="2074569846490712800" at="45,50,67,32" />
+      <scope id="2074569846490712800" at="45,0,69,0">
+        <var name="value" id="2074569846490712800" />
+      </scope>
+      <unit id="2074569846490712800" at="9,0,70,0" name="ComputerLanguage.structure.CPUName" />
+    </file>
+    <file name="CPUName_PropertySupport.java">
+      <node id="2074569846490712800" at="11,24,12,18" concept="7" />
+      <node id="2074569846490712800" at="13,5,14,91" concept="6" />
+      <node id="2074569846490712800" at="15,33,16,42" concept="6" />
+      <node id="2074569846490712800" at="17,45,18,20" concept="7" />
+      <node id="2074569846490712800" at="20,5,21,17" concept="7" />
+      <node id="2074569846490712800" at="24,24,25,18" concept="7" />
+      <node id="2074569846490712800" at="26,5,27,91" concept="6" />
+      <node id="2074569846490712800" at="28,33,29,42" concept="6" />
+      <node id="2074569846490712800" at="30,45,31,43" concept="7" />
+      <node id="2074569846490712800" at="33,5,34,16" concept="7" />
+      <node id="2074569846490712800" at="36,49,37,49" concept="6" />
+      <node id="2074569846490712800" at="38,27,39,32" concept="7" />
+      <node id="2074569846490712800" at="40,5,41,14" concept="7" />
+      <node id="2074569846490712800" at="10,44,13,5" concept="4" />
+      <node id="2074569846490712800" at="16,42,19,7" concept="4" />
+      <node id="2074569846490712800" at="23,47,26,5" concept="4" />
+      <node id="2074569846490712800" at="29,42,32,7" concept="4" />
+      <node id="2074569846490712800" at="37,49,40,5" concept="4" />
+      <node id="2074569846490712800" at="14,91,20,5" concept="9" />
+      <node id="2074569846490712800" at="27,91,33,5" concept="9" />
+      <node id="2074569846490712800" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="2074569846490712800" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="2074569846490712800" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="2074569846490712800" at="11,24,12,18" />
+      <scope id="2074569846490712800" at="17,45,18,20" />
+      <scope id="2074569846490712800" at="24,24,25,18" />
+      <scope id="2074569846490712800" at="30,45,31,43" />
+      <scope id="2074569846490712800" at="38,27,39,32" />
+      <scope id="2074569846490712800" at="15,33,19,7">
+        <var name="constant" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="28,33,32,7">
+        <var name="constant" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="36,49,41,14">
+        <var name="constant" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="36,0,43,0">
+        <var name="value" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="10,44,21,17">
+        <var name="constants" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="23,47,34,16">
+        <var name="constants" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="10,0,23,0">
+        <var name="value" id="2074569846490712800" />
+      </scope>
+      <scope id="2074569846490712800" at="23,0,36,0">
+        <var name="value" id="2074569846490712800" />
+      </scope>
+      <unit id="2074569846490712800" at="9,0,44,0" name="ComputerLanguage.structure.CPUName_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/4220707104819761211">
+    <file name="SSDName.java">
+      <node id="4220707104819761211" at="17,0,18,0" concept="3" trace="myName" />
+      <node id="4220707104819761211" at="18,27,19,18" concept="7" />
+      <node id="4220707104819761211" at="21,0,22,0" concept="3" trace="myValue" />
+      <node id="4220707104819761211" at="22,46,23,18" concept="2" />
+      <node id="4220707104819761211" at="23,18,24,20" concept="2" />
+      <node id="4220707104819761211" at="26,28,27,19" concept="7" />
+      <node id="4220707104819761211" at="29,36,30,19" concept="7" />
+      <node id="4220707104819761211" at="32,46,33,74" concept="6" />
+      <node id="4220707104819761211" at="33,74,34,66" concept="2" />
+      <node id="4220707104819761211" at="34,66,35,71" concept="2" />
+      <node id="4220707104819761211" at="35,71,36,64" concept="2" />
+      <node id="4220707104819761211" at="36,64,37,70" concept="2" />
+      <node id="4220707104819761211" at="37,70,38,72" concept="2" />
+      <node id="4220707104819761211" at="38,72,39,68" concept="2" />
+      <node id="4220707104819761211" at="39,68,40,16" concept="7" />
+      <node id="4220707104819761211" at="42,38,43,33" concept="7" />
+      <node id="4220707104819761211" at="46,24,47,34" concept="7" />
+      <node id="4220707104819761211" at="49,65,50,35" concept="7" />
+      <node id="4220707104819761211" at="52,70,53,40" concept="7" />
+      <node id="4220707104819761211" at="55,63,56,33" concept="7" />
+      <node id="4220707104819761211" at="58,69,59,39" concept="7" />
+      <node id="4220707104819761211" at="61,71,62,41" concept="7" />
+      <node id="4220707104819761211" at="64,67,65,37" concept="7" />
+      <node id="4220707104819761211" at="66,5,67,32" concept="7" />
+      <node id="4220707104819761211" at="18,0,21,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="4220707104819761211" at="26,0,29,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="4220707104819761211" at="29,0,32,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="4220707104819761211" at="42,0,45,0" concept="8" trace="getDefault#()LComputerLanguage/structure/SSDName;" />
+      <node id="4220707104819761211" at="45,50,48,5" concept="4" />
+      <node id="4220707104819761211" at="48,5,51,5" concept="4" />
+      <node id="4220707104819761211" at="51,5,54,5" concept="4" />
+      <node id="4220707104819761211" at="54,5,57,5" concept="4" />
+      <node id="4220707104819761211" at="57,5,60,5" concept="4" />
+      <node id="4220707104819761211" at="60,5,63,5" concept="4" />
+      <node id="4220707104819761211" at="63,5,66,5" concept="4" />
+      <node id="4220707104819761211" at="22,0,26,0" concept="1" trace="SSDName#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="4220707104819761211" at="32,0,42,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="4220707104819761211" at="45,0,69,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/SSDName;" />
+      <scope id="4220707104819761211" at="18,27,19,18" />
+      <scope id="4220707104819761211" at="26,28,27,19" />
+      <scope id="4220707104819761211" at="29,36,30,19" />
+      <scope id="4220707104819761211" at="42,38,43,33" />
+      <scope id="4220707104819761211" at="46,24,47,34" />
+      <scope id="4220707104819761211" at="49,65,50,35" />
+      <scope id="4220707104819761211" at="52,70,53,40" />
+      <scope id="4220707104819761211" at="55,63,56,33" />
+      <scope id="4220707104819761211" at="58,69,59,39" />
+      <scope id="4220707104819761211" at="61,71,62,41" />
+      <scope id="4220707104819761211" at="64,67,65,37" />
+      <scope id="4220707104819761211" at="22,46,24,20" />
+      <scope id="4220707104819761211" at="18,0,21,0" />
+      <scope id="4220707104819761211" at="26,0,29,0" />
+      <scope id="4220707104819761211" at="29,0,32,0" />
+      <scope id="4220707104819761211" at="42,0,45,0" />
+      <scope id="4220707104819761211" at="22,0,26,0">
+        <var name="name" id="4220707104819761211" />
+        <var name="value" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="32,46,40,16">
+        <var name="list" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="32,0,42,0" />
+      <scope id="4220707104819761211" at="45,50,67,32" />
+      <scope id="4220707104819761211" at="45,0,69,0">
+        <var name="value" id="4220707104819761211" />
+      </scope>
+      <unit id="4220707104819761211" at="9,0,70,0" name="ComputerLanguage.structure.SSDName" />
+    </file>
+    <file name="SSDName_PropertySupport.java">
+      <node id="4220707104819761211" at="11,24,12,18" concept="7" />
+      <node id="4220707104819761211" at="13,5,14,91" concept="6" />
+      <node id="4220707104819761211" at="15,33,16,42" concept="6" />
+      <node id="4220707104819761211" at="17,45,18,20" concept="7" />
+      <node id="4220707104819761211" at="20,5,21,17" concept="7" />
+      <node id="4220707104819761211" at="24,24,25,18" concept="7" />
+      <node id="4220707104819761211" at="26,5,27,91" concept="6" />
+      <node id="4220707104819761211" at="28,33,29,42" concept="6" />
+      <node id="4220707104819761211" at="30,45,31,43" concept="7" />
+      <node id="4220707104819761211" at="33,5,34,16" concept="7" />
+      <node id="4220707104819761211" at="36,49,37,49" concept="6" />
+      <node id="4220707104819761211" at="38,27,39,32" concept="7" />
+      <node id="4220707104819761211" at="40,5,41,14" concept="7" />
+      <node id="4220707104819761211" at="10,44,13,5" concept="4" />
+      <node id="4220707104819761211" at="16,42,19,7" concept="4" />
+      <node id="4220707104819761211" at="23,47,26,5" concept="4" />
+      <node id="4220707104819761211" at="29,42,32,7" concept="4" />
+      <node id="4220707104819761211" at="37,49,40,5" concept="4" />
+      <node id="4220707104819761211" at="14,91,20,5" concept="9" />
+      <node id="4220707104819761211" at="27,91,33,5" concept="9" />
+      <node id="4220707104819761211" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="4220707104819761211" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="4220707104819761211" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="4220707104819761211" at="11,24,12,18" />
+      <scope id="4220707104819761211" at="17,45,18,20" />
+      <scope id="4220707104819761211" at="24,24,25,18" />
+      <scope id="4220707104819761211" at="30,45,31,43" />
+      <scope id="4220707104819761211" at="38,27,39,32" />
+      <scope id="4220707104819761211" at="15,33,19,7">
+        <var name="constant" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="28,33,32,7">
+        <var name="constant" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="36,49,41,14">
+        <var name="constant" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="36,0,43,0">
+        <var name="value" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="10,44,21,17">
+        <var name="constants" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="23,47,34,16">
+        <var name="constants" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="10,0,23,0">
+        <var name="value" id="4220707104819761211" />
+      </scope>
+      <scope id="4220707104819761211" at="23,0,36,0">
+        <var name="value" id="4220707104819761211" />
+      </scope>
+      <unit id="4220707104819761211" at="9,0,44,0" name="ComputerLanguage.structure.SSDName_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/4220707104820057895">
+    <file name="PSUName.java">
+      <node id="4220707104820057895" at="14,0,15,0" concept="3" trace="myName" />
+      <node id="4220707104820057895" at="15,27,16,18" concept="7" />
+      <node id="4220707104820057895" at="18,0,19,0" concept="3" trace="myValue" />
+      <node id="4220707104820057895" at="19,46,20,18" concept="2" />
+      <node id="4220707104820057895" at="20,18,21,20" concept="2" />
+      <node id="4220707104820057895" at="23,28,24,19" concept="7" />
+      <node id="4220707104820057895" at="26,36,27,19" concept="7" />
+      <node id="4220707104820057895" at="29,46,30,74" concept="6" />
+      <node id="4220707104820057895" at="30,74,31,67" concept="2" />
+      <node id="4220707104820057895" at="31,67,32,64" concept="2" />
+      <node id="4220707104820057895" at="32,64,33,80" concept="2" />
+      <node id="4220707104820057895" at="33,80,34,16" concept="7" />
+      <node id="4220707104820057895" at="36,38,37,34" concept="7" />
+      <node id="4220707104820057895" at="40,24,41,34" concept="7" />
+      <node id="4220707104820057895" at="43,66,44,36" concept="7" />
+      <node id="4220707104820057895" at="46,63,47,33" concept="7" />
+      <node id="4220707104820057895" at="49,79,50,49" concept="7" />
+      <node id="4220707104820057895" at="51,5,52,32" concept="7" />
+      <node id="4220707104820057895" at="15,0,18,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="4220707104820057895" at="23,0,26,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="4220707104820057895" at="26,0,29,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="4220707104820057895" at="36,0,39,0" concept="8" trace="getDefault#()LComputerLanguage/structure/PSUName;" />
+      <node id="4220707104820057895" at="39,50,42,5" concept="4" />
+      <node id="4220707104820057895" at="42,5,45,5" concept="4" />
+      <node id="4220707104820057895" at="45,5,48,5" concept="4" />
+      <node id="4220707104820057895" at="48,5,51,5" concept="4" />
+      <node id="4220707104820057895" at="19,0,23,0" concept="1" trace="PSUName#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="4220707104820057895" at="29,0,36,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="4220707104820057895" at="39,0,54,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/PSUName;" />
+      <scope id="4220707104820057895" at="15,27,16,18" />
+      <scope id="4220707104820057895" at="23,28,24,19" />
+      <scope id="4220707104820057895" at="26,36,27,19" />
+      <scope id="4220707104820057895" at="36,38,37,34" />
+      <scope id="4220707104820057895" at="40,24,41,34" />
+      <scope id="4220707104820057895" at="43,66,44,36" />
+      <scope id="4220707104820057895" at="46,63,47,33" />
+      <scope id="4220707104820057895" at="49,79,50,49" />
+      <scope id="4220707104820057895" at="19,46,21,20" />
+      <scope id="4220707104820057895" at="15,0,18,0" />
+      <scope id="4220707104820057895" at="23,0,26,0" />
+      <scope id="4220707104820057895" at="26,0,29,0" />
+      <scope id="4220707104820057895" at="36,0,39,0" />
+      <scope id="4220707104820057895" at="19,0,23,0">
+        <var name="name" id="4220707104820057895" />
+        <var name="value" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="29,46,34,16">
+        <var name="list" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="29,0,36,0" />
+      <scope id="4220707104820057895" at="39,50,52,32" />
+      <scope id="4220707104820057895" at="39,0,54,0">
+        <var name="value" id="4220707104820057895" />
+      </scope>
+      <unit id="4220707104820057895" at="9,0,55,0" name="ComputerLanguage.structure.PSUName" />
+    </file>
+    <file name="PSUName_PropertySupport.java">
+      <node id="4220707104820057895" at="11,24,12,18" concept="7" />
+      <node id="4220707104820057895" at="13,5,14,91" concept="6" />
+      <node id="4220707104820057895" at="15,33,16,42" concept="6" />
+      <node id="4220707104820057895" at="17,45,18,20" concept="7" />
+      <node id="4220707104820057895" at="20,5,21,17" concept="7" />
+      <node id="4220707104820057895" at="24,24,25,18" concept="7" />
+      <node id="4220707104820057895" at="26,5,27,91" concept="6" />
+      <node id="4220707104820057895" at="28,33,29,42" concept="6" />
+      <node id="4220707104820057895" at="30,45,31,43" concept="7" />
+      <node id="4220707104820057895" at="33,5,34,16" concept="7" />
+      <node id="4220707104820057895" at="36,49,37,49" concept="6" />
+      <node id="4220707104820057895" at="38,27,39,32" concept="7" />
+      <node id="4220707104820057895" at="40,5,41,14" concept="7" />
+      <node id="4220707104820057895" at="10,44,13,5" concept="4" />
+      <node id="4220707104820057895" at="16,42,19,7" concept="4" />
+      <node id="4220707104820057895" at="23,47,26,5" concept="4" />
+      <node id="4220707104820057895" at="29,42,32,7" concept="4" />
+      <node id="4220707104820057895" at="37,49,40,5" concept="4" />
+      <node id="4220707104820057895" at="14,91,20,5" concept="9" />
+      <node id="4220707104820057895" at="27,91,33,5" concept="9" />
+      <node id="4220707104820057895" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="4220707104820057895" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="4220707104820057895" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="4220707104820057895" at="11,24,12,18" />
+      <scope id="4220707104820057895" at="17,45,18,20" />
+      <scope id="4220707104820057895" at="24,24,25,18" />
+      <scope id="4220707104820057895" at="30,45,31,43" />
+      <scope id="4220707104820057895" at="38,27,39,32" />
+      <scope id="4220707104820057895" at="15,33,19,7">
+        <var name="constant" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="28,33,32,7">
+        <var name="constant" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="36,49,41,14">
+        <var name="constant" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="36,0,43,0">
+        <var name="value" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="10,44,21,17">
+        <var name="constants" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="23,47,34,16">
+        <var name="constants" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="10,0,23,0">
+        <var name="value" id="4220707104820057895" />
+      </scope>
+      <scope id="4220707104820057895" at="23,0,36,0">
+        <var name="value" id="4220707104820057895" />
+      </scope>
+      <unit id="4220707104820057895" at="9,0,44,0" name="ComputerLanguage.structure.PSUName_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/6303668728933725332">
+    <file name="FormFactor.java">
+      <node id="6303668728933725332" at="17,0,18,0" concept="3" trace="myName" />
+      <node id="6303668728933725332" at="18,27,19,18" concept="7" />
+      <node id="6303668728933725332" at="21,0,22,0" concept="3" trace="myValue" />
+      <node id="6303668728933725332" at="22,49,23,18" concept="2" />
+      <node id="6303668728933725332" at="23,18,24,20" concept="2" />
+      <node id="6303668728933725332" at="26,28,27,19" concept="7" />
+      <node id="6303668728933725332" at="29,36,30,19" concept="7" />
+      <node id="6303668728933725332" at="32,49,33,80" concept="6" />
+      <node id="6303668728933725332" at="33,80,34,59" concept="2" />
+      <node id="6303668728933725332" at="34,59,35,60" concept="2" />
+      <node id="6303668728933725332" at="35,60,36,65" concept="2" />
+      <node id="6303668728933725332" at="36,65,37,59" concept="2" />
+      <node id="6303668728933725332" at="37,59,38,64" concept="2" />
+      <node id="6303668728933725332" at="38,64,39,64" concept="2" />
+      <node id="6303668728933725332" at="39,64,40,16" concept="7" />
+      <node id="6303668728933725332" at="42,41,43,26" concept="7" />
+      <node id="6303668728933725332" at="46,24,47,37" concept="7" />
+      <node id="6303668728933725332" at="49,58,50,28" concept="7" />
+      <node id="6303668728933725332" at="52,59,53,29" concept="7" />
+      <node id="6303668728933725332" at="55,64,56,34" concept="7" />
+      <node id="6303668728933725332" at="58,58,59,28" concept="7" />
+      <node id="6303668728933725332" at="61,63,62,33" concept="7" />
+      <node id="6303668728933725332" at="64,63,65,33" concept="7" />
+      <node id="6303668728933725332" at="66,5,67,35" concept="7" />
+      <node id="6303668728933725332" at="18,0,21,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="6303668728933725332" at="26,0,29,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="6303668728933725332" at="29,0,32,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="6303668728933725332" at="42,0,45,0" concept="8" trace="getDefault#()LComputerLanguage/structure/FormFactor;" />
+      <node id="6303668728933725332" at="45,53,48,5" concept="4" />
+      <node id="6303668728933725332" at="48,5,51,5" concept="4" />
+      <node id="6303668728933725332" at="51,5,54,5" concept="4" />
+      <node id="6303668728933725332" at="54,5,57,5" concept="4" />
+      <node id="6303668728933725332" at="57,5,60,5" concept="4" />
+      <node id="6303668728933725332" at="60,5,63,5" concept="4" />
+      <node id="6303668728933725332" at="63,5,66,5" concept="4" />
+      <node id="6303668728933725332" at="22,0,26,0" concept="1" trace="FormFactor#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="6303668728933725332" at="32,0,42,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="6303668728933725332" at="45,0,69,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/FormFactor;" />
+      <scope id="6303668728933725332" at="18,27,19,18" />
+      <scope id="6303668728933725332" at="26,28,27,19" />
+      <scope id="6303668728933725332" at="29,36,30,19" />
+      <scope id="6303668728933725332" at="42,41,43,26" />
+      <scope id="6303668728933725332" at="46,24,47,37" />
+      <scope id="6303668728933725332" at="49,58,50,28" />
+      <scope id="6303668728933725332" at="52,59,53,29" />
+      <scope id="6303668728933725332" at="55,64,56,34" />
+      <scope id="6303668728933725332" at="58,58,59,28" />
+      <scope id="6303668728933725332" at="61,63,62,33" />
+      <scope id="6303668728933725332" at="64,63,65,33" />
+      <scope id="6303668728933725332" at="22,49,24,20" />
+      <scope id="6303668728933725332" at="18,0,21,0" />
+      <scope id="6303668728933725332" at="26,0,29,0" />
+      <scope id="6303668728933725332" at="29,0,32,0" />
+      <scope id="6303668728933725332" at="42,0,45,0" />
+      <scope id="6303668728933725332" at="22,0,26,0">
+        <var name="name" id="6303668728933725332" />
+        <var name="value" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="32,49,40,16">
+        <var name="list" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="32,0,42,0" />
+      <scope id="6303668728933725332" at="45,53,67,35" />
+      <scope id="6303668728933725332" at="45,0,69,0">
+        <var name="value" id="6303668728933725332" />
+      </scope>
+      <unit id="6303668728933725332" at="9,0,70,0" name="ComputerLanguage.structure.FormFactor" />
+    </file>
+    <file name="FormFactor_PropertySupport.java">
+      <node id="6303668728933725332" at="11,24,12,18" concept="7" />
+      <node id="6303668728933725332" at="13,5,14,97" concept="6" />
+      <node id="6303668728933725332" at="15,33,16,45" concept="6" />
+      <node id="6303668728933725332" at="17,45,18,20" concept="7" />
+      <node id="6303668728933725332" at="20,5,21,17" concept="7" />
+      <node id="6303668728933725332" at="24,24,25,18" concept="7" />
+      <node id="6303668728933725332" at="26,5,27,97" concept="6" />
+      <node id="6303668728933725332" at="28,33,29,45" concept="6" />
+      <node id="6303668728933725332" at="30,45,31,43" concept="7" />
+      <node id="6303668728933725332" at="33,5,34,16" concept="7" />
+      <node id="6303668728933725332" at="36,49,37,55" concept="6" />
+      <node id="6303668728933725332" at="38,27,39,32" concept="7" />
+      <node id="6303668728933725332" at="40,5,41,14" concept="7" />
+      <node id="6303668728933725332" at="10,44,13,5" concept="4" />
+      <node id="6303668728933725332" at="16,45,19,7" concept="4" />
+      <node id="6303668728933725332" at="23,47,26,5" concept="4" />
+      <node id="6303668728933725332" at="29,45,32,7" concept="4" />
+      <node id="6303668728933725332" at="37,55,40,5" concept="4" />
+      <node id="6303668728933725332" at="14,97,20,5" concept="9" />
+      <node id="6303668728933725332" at="27,97,33,5" concept="9" />
+      <node id="6303668728933725332" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="6303668728933725332" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="6303668728933725332" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="6303668728933725332" at="11,24,12,18" />
+      <scope id="6303668728933725332" at="17,45,18,20" />
+      <scope id="6303668728933725332" at="24,24,25,18" />
+      <scope id="6303668728933725332" at="30,45,31,43" />
+      <scope id="6303668728933725332" at="38,27,39,32" />
+      <scope id="6303668728933725332" at="15,33,19,7">
+        <var name="constant" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="28,33,32,7">
+        <var name="constant" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="36,49,41,14">
+        <var name="constant" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="36,0,43,0">
+        <var name="value" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="10,44,21,17">
+        <var name="constants" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="23,47,34,16">
+        <var name="constants" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="10,0,23,0">
+        <var name="value" id="6303668728933725332" />
+      </scope>
+      <scope id="6303668728933725332" at="23,0,36,0">
+        <var name="value" id="6303668728933725332" />
+      </scope>
+      <unit id="6303668728933725332" at="9,0,44,0" name="ComputerLanguage.structure.FormFactor_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/6401466218301457045">
+    <file name="DataLinkLayer.java">
+      <node id="6401466218301457045" at="17,0,18,0" concept="3" trace="myName" />
+      <node id="6401466218301457045" at="18,27,19,18" concept="7" />
+      <node id="6401466218301457045" at="21,0,22,0" concept="3" trace="myValue" />
+      <node id="6401466218301457045" at="22,52,23,18" concept="2" />
+      <node id="6401466218301457045" at="23,18,24,20" concept="2" />
+      <node id="6401466218301457045" at="26,28,27,19" concept="7" />
+      <node id="6401466218301457045" at="29,36,30,19" concept="7" />
+      <node id="6401466218301457045" at="32,52,33,86" concept="6" />
+      <node id="6401466218301457045" at="33,86,34,71" concept="2" />
+      <node id="6401466218301457045" at="34,71,35,71" concept="2" />
+      <node id="6401466218301457045" at="35,71,36,71" concept="2" />
+      <node id="6401466218301457045" at="36,71,37,71" concept="2" />
+      <node id="6401466218301457045" at="37,71,38,72" concept="2" />
+      <node id="6401466218301457045" at="38,72,39,77" concept="2" />
+      <node id="6401466218301457045" at="39,77,40,16" concept="7" />
+      <node id="6401466218301457045" at="42,44,43,16" concept="7" />
+      <node id="6401466218301457045" at="46,24,47,40" concept="7" />
+      <node id="6401466218301457045" at="49,70,50,40" concept="7" />
+      <node id="6401466218301457045" at="52,70,53,40" concept="7" />
+      <node id="6401466218301457045" at="55,70,56,40" concept="7" />
+      <node id="6401466218301457045" at="58,70,59,40" concept="7" />
+      <node id="6401466218301457045" at="61,71,62,41" concept="7" />
+      <node id="6401466218301457045" at="64,76,65,46" concept="7" />
+      <node id="6401466218301457045" at="66,5,67,38" concept="7" />
+      <node id="6401466218301457045" at="18,0,21,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="6401466218301457045" at="26,0,29,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="6401466218301457045" at="29,0,32,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="6401466218301457045" at="42,0,45,0" concept="8" trace="getDefault#()LComputerLanguage/structure/DataLinkLayer;" />
+      <node id="6401466218301457045" at="45,56,48,5" concept="4" />
+      <node id="6401466218301457045" at="48,5,51,5" concept="4" />
+      <node id="6401466218301457045" at="51,5,54,5" concept="4" />
+      <node id="6401466218301457045" at="54,5,57,5" concept="4" />
+      <node id="6401466218301457045" at="57,5,60,5" concept="4" />
+      <node id="6401466218301457045" at="60,5,63,5" concept="4" />
+      <node id="6401466218301457045" at="63,5,66,5" concept="4" />
+      <node id="6401466218301457045" at="22,0,26,0" concept="1" trace="DataLinkLayer#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="6401466218301457045" at="32,0,42,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="6401466218301457045" at="45,0,69,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/DataLinkLayer;" />
+      <scope id="6401466218301457045" at="18,27,19,18" />
+      <scope id="6401466218301457045" at="26,28,27,19" />
+      <scope id="6401466218301457045" at="29,36,30,19" />
+      <scope id="6401466218301457045" at="42,44,43,16" />
+      <scope id="6401466218301457045" at="46,24,47,40" />
+      <scope id="6401466218301457045" at="49,70,50,40" />
+      <scope id="6401466218301457045" at="52,70,53,40" />
+      <scope id="6401466218301457045" at="55,70,56,40" />
+      <scope id="6401466218301457045" at="58,70,59,40" />
+      <scope id="6401466218301457045" at="61,71,62,41" />
+      <scope id="6401466218301457045" at="64,76,65,46" />
+      <scope id="6401466218301457045" at="22,52,24,20" />
+      <scope id="6401466218301457045" at="18,0,21,0" />
+      <scope id="6401466218301457045" at="26,0,29,0" />
+      <scope id="6401466218301457045" at="29,0,32,0" />
+      <scope id="6401466218301457045" at="42,0,45,0" />
+      <scope id="6401466218301457045" at="22,0,26,0">
+        <var name="name" id="6401466218301457045" />
+        <var name="value" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="32,52,40,16">
+        <var name="list" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="32,0,42,0" />
+      <scope id="6401466218301457045" at="45,56,67,38" />
+      <scope id="6401466218301457045" at="45,0,69,0">
+        <var name="value" id="6401466218301457045" />
+      </scope>
+      <unit id="6401466218301457045" at="9,0,70,0" name="ComputerLanguage.structure.DataLinkLayer" />
+    </file>
+    <file name="DataLinkLayer_PropertySupport.java">
+      <node id="6401466218301457045" at="11,24,12,18" concept="7" />
+      <node id="6401466218301457045" at="13,5,14,103" concept="6" />
+      <node id="6401466218301457045" at="15,33,16,48" concept="6" />
+      <node id="6401466218301457045" at="17,45,18,20" concept="7" />
+      <node id="6401466218301457045" at="20,5,21,17" concept="7" />
+      <node id="6401466218301457045" at="24,24,25,18" concept="7" />
+      <node id="6401466218301457045" at="26,5,27,103" concept="6" />
+      <node id="6401466218301457045" at="28,33,29,48" concept="6" />
+      <node id="6401466218301457045" at="30,45,31,43" concept="7" />
+      <node id="6401466218301457045" at="33,5,34,16" concept="7" />
+      <node id="6401466218301457045" at="36,49,37,61" concept="6" />
+      <node id="6401466218301457045" at="38,27,39,32" concept="7" />
+      <node id="6401466218301457045" at="40,5,41,14" concept="7" />
+      <node id="6401466218301457045" at="10,44,13,5" concept="4" />
+      <node id="6401466218301457045" at="16,48,19,7" concept="4" />
+      <node id="6401466218301457045" at="23,47,26,5" concept="4" />
+      <node id="6401466218301457045" at="29,48,32,7" concept="4" />
+      <node id="6401466218301457045" at="37,61,40,5" concept="4" />
+      <node id="6401466218301457045" at="14,103,20,5" concept="9" />
+      <node id="6401466218301457045" at="27,103,33,5" concept="9" />
+      <node id="6401466218301457045" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="6401466218301457045" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="6401466218301457045" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="6401466218301457045" at="11,24,12,18" />
+      <scope id="6401466218301457045" at="17,45,18,20" />
+      <scope id="6401466218301457045" at="24,24,25,18" />
+      <scope id="6401466218301457045" at="30,45,31,43" />
+      <scope id="6401466218301457045" at="38,27,39,32" />
+      <scope id="6401466218301457045" at="15,33,19,7">
+        <var name="constant" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="28,33,32,7">
+        <var name="constant" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="36,49,41,14">
+        <var name="constant" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="36,0,43,0">
+        <var name="value" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="10,44,21,17">
+        <var name="constants" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="23,47,34,16">
+        <var name="constants" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="10,0,23,0">
+        <var name="value" id="6401466218301457045" />
+      </scope>
+      <scope id="6401466218301457045" at="23,0,36,0">
+        <var name="value" id="6401466218301457045" />
+      </scope>
+      <unit id="6401466218301457045" at="9,0,44,0" name="ComputerLanguage.structure.DataLinkLayer_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/709201640116395327">
+    <file name="RamName.java">
+      <node id="709201640116395327" at="17,0,18,0" concept="3" trace="myName" />
+      <node id="709201640116395327" at="18,27,19,18" concept="7" />
+      <node id="709201640116395327" at="21,0,22,0" concept="3" trace="myValue" />
+      <node id="709201640116395327" at="22,46,23,18" concept="2" />
+      <node id="709201640116395327" at="23,18,24,20" concept="2" />
+      <node id="709201640116395327" at="26,28,27,19" concept="7" />
+      <node id="709201640116395327" at="29,36,30,19" concept="7" />
+      <node id="709201640116395327" at="32,46,33,74" concept="6" />
+      <node id="709201640116395327" at="33,74,34,70" concept="2" />
+      <node id="709201640116395327" at="34,70,35,68" concept="2" />
+      <node id="709201640116395327" at="35,68,36,68" concept="2" />
+      <node id="709201640116395327" at="36,68,37,68" concept="2" />
+      <node id="709201640116395327" at="37,68,38,70" concept="2" />
+      <node id="709201640116395327" at="38,70,39,62" concept="2" />
+      <node id="709201640116395327" at="39,62,40,16" concept="7" />
+      <node id="709201640116395327" at="42,38,43,37" concept="7" />
+      <node id="709201640116395327" at="46,24,47,34" concept="7" />
+      <node id="709201640116395327" at="49,69,50,39" concept="7" />
+      <node id="709201640116395327" at="52,67,53,37" concept="7" />
+      <node id="709201640116395327" at="55,67,56,37" concept="7" />
+      <node id="709201640116395327" at="58,67,59,37" concept="7" />
+      <node id="709201640116395327" at="61,69,62,39" concept="7" />
+      <node id="709201640116395327" at="64,61,65,31" concept="7" />
+      <node id="709201640116395327" at="66,5,67,32" concept="7" />
+      <node id="709201640116395327" at="18,0,21,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="709201640116395327" at="26,0,29,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="709201640116395327" at="29,0,32,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="709201640116395327" at="42,0,45,0" concept="8" trace="getDefault#()LComputerLanguage/structure/RamName;" />
+      <node id="709201640116395327" at="45,50,48,5" concept="4" />
+      <node id="709201640116395327" at="48,5,51,5" concept="4" />
+      <node id="709201640116395327" at="51,5,54,5" concept="4" />
+      <node id="709201640116395327" at="54,5,57,5" concept="4" />
+      <node id="709201640116395327" at="57,5,60,5" concept="4" />
+      <node id="709201640116395327" at="60,5,63,5" concept="4" />
+      <node id="709201640116395327" at="63,5,66,5" concept="4" />
+      <node id="709201640116395327" at="22,0,26,0" concept="1" trace="RamName#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="709201640116395327" at="32,0,42,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="709201640116395327" at="45,0,69,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/RamName;" />
+      <scope id="709201640116395327" at="18,27,19,18" />
+      <scope id="709201640116395327" at="26,28,27,19" />
+      <scope id="709201640116395327" at="29,36,30,19" />
+      <scope id="709201640116395327" at="42,38,43,37" />
+      <scope id="709201640116395327" at="46,24,47,34" />
+      <scope id="709201640116395327" at="49,69,50,39" />
+      <scope id="709201640116395327" at="52,67,53,37" />
+      <scope id="709201640116395327" at="55,67,56,37" />
+      <scope id="709201640116395327" at="58,67,59,37" />
+      <scope id="709201640116395327" at="61,69,62,39" />
+      <scope id="709201640116395327" at="64,61,65,31" />
+      <scope id="709201640116395327" at="22,46,24,20" />
+      <scope id="709201640116395327" at="18,0,21,0" />
+      <scope id="709201640116395327" at="26,0,29,0" />
+      <scope id="709201640116395327" at="29,0,32,0" />
+      <scope id="709201640116395327" at="42,0,45,0" />
+      <scope id="709201640116395327" at="22,0,26,0">
+        <var name="name" id="709201640116395327" />
+        <var name="value" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="32,46,40,16">
+        <var name="list" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="32,0,42,0" />
+      <scope id="709201640116395327" at="45,50,67,32" />
+      <scope id="709201640116395327" at="45,0,69,0">
+        <var name="value" id="709201640116395327" />
+      </scope>
+      <unit id="709201640116395327" at="9,0,70,0" name="ComputerLanguage.structure.RamName" />
+    </file>
+    <file name="RamName_PropertySupport.java">
+      <node id="709201640116395327" at="11,24,12,18" concept="7" />
+      <node id="709201640116395327" at="13,5,14,91" concept="6" />
+      <node id="709201640116395327" at="15,33,16,42" concept="6" />
+      <node id="709201640116395327" at="17,45,18,20" concept="7" />
+      <node id="709201640116395327" at="20,5,21,17" concept="7" />
+      <node id="709201640116395327" at="24,24,25,18" concept="7" />
+      <node id="709201640116395327" at="26,5,27,91" concept="6" />
+      <node id="709201640116395327" at="28,33,29,42" concept="6" />
+      <node id="709201640116395327" at="30,45,31,43" concept="7" />
+      <node id="709201640116395327" at="33,5,34,16" concept="7" />
+      <node id="709201640116395327" at="36,49,37,49" concept="6" />
+      <node id="709201640116395327" at="38,27,39,32" concept="7" />
+      <node id="709201640116395327" at="40,5,41,14" concept="7" />
+      <node id="709201640116395327" at="10,44,13,5" concept="4" />
+      <node id="709201640116395327" at="16,42,19,7" concept="4" />
+      <node id="709201640116395327" at="23,47,26,5" concept="4" />
+      <node id="709201640116395327" at="29,42,32,7" concept="4" />
+      <node id="709201640116395327" at="37,49,40,5" concept="4" />
+      <node id="709201640116395327" at="14,91,20,5" concept="9" />
+      <node id="709201640116395327" at="27,91,33,5" concept="9" />
+      <node id="709201640116395327" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="709201640116395327" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="709201640116395327" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="709201640116395327" at="11,24,12,18" />
+      <scope id="709201640116395327" at="17,45,18,20" />
+      <scope id="709201640116395327" at="24,24,25,18" />
+      <scope id="709201640116395327" at="30,45,31,43" />
+      <scope id="709201640116395327" at="38,27,39,32" />
+      <scope id="709201640116395327" at="15,33,19,7">
+        <var name="constant" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="28,33,32,7">
+        <var name="constant" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="36,49,41,14">
+        <var name="constant" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="36,0,43,0">
+        <var name="value" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="10,44,21,17">
+        <var name="constants" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="23,47,34,16">
+        <var name="constants" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="10,0,23,0">
+        <var name="value" id="709201640116395327" />
+      </scope>
+      <scope id="709201640116395327" at="23,0,36,0">
+        <var name="value" id="709201640116395327" />
+      </scope>
+      <unit id="709201640116395327" at="9,0,44,0" name="ComputerLanguage.structure.RamName_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/7796489699011807575">
+    <file name="Games.java">
+      <node id="7796489699011807575" at="21,0,22,0" concept="3" trace="myName" />
+      <node id="7796489699011807575" at="22,27,23,18" concept="7" />
+      <node id="7796489699011807575" at="25,0,26,0" concept="3" trace="myValue" />
+      <node id="7796489699011807575" at="26,44,27,18" concept="2" />
+      <node id="7796489699011807575" at="27,18,28,20" concept="2" />
+      <node id="7796489699011807575" at="30,28,31,19" concept="7" />
+      <node id="7796489699011807575" at="33,36,34,19" concept="7" />
+      <node id="7796489699011807575" at="36,44,37,70" concept="6" />
+      <node id="7796489699011807575" at="37,70,38,68" concept="2" />
+      <node id="7796489699011807575" at="38,68,39,62" concept="2" />
+      <node id="7796489699011807575" at="39,62,40,57" concept="2" />
+      <node id="7796489699011807575" at="40,57,41,60" concept="2" />
+      <node id="7796489699011807575" at="41,60,42,83" concept="2" />
+      <node id="7796489699011807575" at="42,83,43,71" concept="2" />
+      <node id="7796489699011807575" at="43,71,44,60" concept="2" />
+      <node id="7796489699011807575" at="44,60,45,56" concept="2" />
+      <node id="7796489699011807575" at="45,56,46,64" concept="2" />
+      <node id="7796489699011807575" at="46,64,47,72" concept="2" />
+      <node id="7796489699011807575" at="47,72,48,16" concept="7" />
+      <node id="7796489699011807575" at="50,36,51,35" concept="7" />
+      <node id="7796489699011807575" at="54,24,55,32" concept="7" />
+      <node id="7796489699011807575" at="57,67,58,37" concept="7" />
+      <node id="7796489699011807575" at="60,61,61,31" concept="7" />
+      <node id="7796489699011807575" at="63,56,64,26" concept="7" />
+      <node id="7796489699011807575" at="66,59,67,29" concept="7" />
+      <node id="7796489699011807575" at="69,82,70,52" concept="7" />
+      <node id="7796489699011807575" at="72,70,73,40" concept="7" />
+      <node id="7796489699011807575" at="75,59,76,29" concept="7" />
+      <node id="7796489699011807575" at="78,55,79,25" concept="7" />
+      <node id="7796489699011807575" at="81,63,82,33" concept="7" />
+      <node id="7796489699011807575" at="84,71,85,41" concept="7" />
+      <node id="7796489699011807575" at="86,5,87,30" concept="7" />
+      <node id="7796489699011807575" at="22,0,25,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="7796489699011807575" at="30,0,33,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="7796489699011807575" at="33,0,36,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="7796489699011807575" at="50,0,53,0" concept="8" trace="getDefault#()LComputerLanguage/structure/Games;" />
+      <node id="7796489699011807575" at="53,48,56,5" concept="4" />
+      <node id="7796489699011807575" at="56,5,59,5" concept="4" />
+      <node id="7796489699011807575" at="59,5,62,5" concept="4" />
+      <node id="7796489699011807575" at="62,5,65,5" concept="4" />
+      <node id="7796489699011807575" at="65,5,68,5" concept="4" />
+      <node id="7796489699011807575" at="68,5,71,5" concept="4" />
+      <node id="7796489699011807575" at="71,5,74,5" concept="4" />
+      <node id="7796489699011807575" at="74,5,77,5" concept="4" />
+      <node id="7796489699011807575" at="77,5,80,5" concept="4" />
+      <node id="7796489699011807575" at="80,5,83,5" concept="4" />
+      <node id="7796489699011807575" at="83,5,86,5" concept="4" />
+      <node id="7796489699011807575" at="26,0,30,0" concept="1" trace="Games#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="7796489699011807575" at="36,0,50,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="7796489699011807575" at="53,0,89,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/Games;" />
+      <scope id="7796489699011807575" at="22,27,23,18" />
+      <scope id="7796489699011807575" at="30,28,31,19" />
+      <scope id="7796489699011807575" at="33,36,34,19" />
+      <scope id="7796489699011807575" at="50,36,51,35" />
+      <scope id="7796489699011807575" at="54,24,55,32" />
+      <scope id="7796489699011807575" at="57,67,58,37" />
+      <scope id="7796489699011807575" at="60,61,61,31" />
+      <scope id="7796489699011807575" at="63,56,64,26" />
+      <scope id="7796489699011807575" at="66,59,67,29" />
+      <scope id="7796489699011807575" at="69,82,70,52" />
+      <scope id="7796489699011807575" at="72,70,73,40" />
+      <scope id="7796489699011807575" at="75,59,76,29" />
+      <scope id="7796489699011807575" at="78,55,79,25" />
+      <scope id="7796489699011807575" at="81,63,82,33" />
+      <scope id="7796489699011807575" at="84,71,85,41" />
+      <scope id="7796489699011807575" at="26,44,28,20" />
+      <scope id="7796489699011807575" at="22,0,25,0" />
+      <scope id="7796489699011807575" at="30,0,33,0" />
+      <scope id="7796489699011807575" at="33,0,36,0" />
+      <scope id="7796489699011807575" at="50,0,53,0" />
+      <scope id="7796489699011807575" at="26,0,30,0">
+        <var name="name" id="7796489699011807575" />
+        <var name="value" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="36,44,48,16">
+        <var name="list" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="36,0,50,0" />
+      <scope id="7796489699011807575" at="53,48,87,30" />
+      <scope id="7796489699011807575" at="53,0,89,0">
+        <var name="value" id="7796489699011807575" />
+      </scope>
+      <unit id="7796489699011807575" at="9,0,90,0" name="ComputerLanguage.structure.Games" />
+    </file>
+    <file name="Games_PropertySupport.java">
+      <node id="7796489699011807575" at="11,24,12,18" concept="7" />
+      <node id="7796489699011807575" at="13,5,14,87" concept="6" />
+      <node id="7796489699011807575" at="15,33,16,40" concept="6" />
+      <node id="7796489699011807575" at="17,45,18,20" concept="7" />
+      <node id="7796489699011807575" at="20,5,21,17" concept="7" />
+      <node id="7796489699011807575" at="24,24,25,18" concept="7" />
+      <node id="7796489699011807575" at="26,5,27,87" concept="6" />
+      <node id="7796489699011807575" at="28,33,29,40" concept="6" />
+      <node id="7796489699011807575" at="30,45,31,43" concept="7" />
+      <node id="7796489699011807575" at="33,5,34,16" concept="7" />
+      <node id="7796489699011807575" at="36,49,37,45" concept="6" />
+      <node id="7796489699011807575" at="38,27,39,32" concept="7" />
+      <node id="7796489699011807575" at="40,5,41,14" concept="7" />
+      <node id="7796489699011807575" at="10,44,13,5" concept="4" />
+      <node id="7796489699011807575" at="16,40,19,7" concept="4" />
+      <node id="7796489699011807575" at="23,47,26,5" concept="4" />
+      <node id="7796489699011807575" at="29,40,32,7" concept="4" />
+      <node id="7796489699011807575" at="37,45,40,5" concept="4" />
+      <node id="7796489699011807575" at="14,87,20,5" concept="9" />
+      <node id="7796489699011807575" at="27,87,33,5" concept="9" />
+      <node id="7796489699011807575" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="7796489699011807575" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="7796489699011807575" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="7796489699011807575" at="11,24,12,18" />
+      <scope id="7796489699011807575" at="17,45,18,20" />
+      <scope id="7796489699011807575" at="24,24,25,18" />
+      <scope id="7796489699011807575" at="30,45,31,43" />
+      <scope id="7796489699011807575" at="38,27,39,32" />
+      <scope id="7796489699011807575" at="15,33,19,7">
+        <var name="constant" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="28,33,32,7">
+        <var name="constant" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="36,49,41,14">
+        <var name="constant" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="36,0,43,0">
+        <var name="value" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="10,44,21,17">
+        <var name="constants" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="23,47,34,16">
+        <var name="constants" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="10,0,23,0">
+        <var name="value" id="7796489699011807575" />
+      </scope>
+      <scope id="7796489699011807575" at="23,0,36,0">
+        <var name="value" id="7796489699011807575" />
+      </scope>
+      <unit id="7796489699011807575" at="9,0,44,0" name="ComputerLanguage.structure.Games_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/848084820046920434">
+    <file name="CoolingType.java">
+      <node id="848084820046920434" at="14,0,15,0" concept="3" trace="myName" />
+      <node id="848084820046920434" at="15,27,16,18" concept="7" />
+      <node id="848084820046920434" at="18,0,19,0" concept="3" trace="myValue" />
+      <node id="848084820046920434" at="19,50,20,18" concept="2" />
+      <node id="848084820046920434" at="20,18,21,20" concept="2" />
+      <node id="848084820046920434" at="23,28,24,19" concept="7" />
+      <node id="848084820046920434" at="26,36,27,19" concept="7" />
+      <node id="848084820046920434" at="29,50,30,82" concept="6" />
+      <node id="848084820046920434" at="30,82,31,65" concept="2" />
+      <node id="848084820046920434" at="31,65,32,70" concept="2" />
+      <node id="848084820046920434" at="32,70,33,64" concept="2" />
+      <node id="848084820046920434" at="33,64,34,16" concept="7" />
+      <node id="848084820046920434" at="36,42,37,32" concept="7" />
+      <node id="848084820046920434" at="40,24,41,38" concept="7" />
+      <node id="848084820046920434" at="43,64,44,34" concept="7" />
+      <node id="848084820046920434" at="46,69,47,39" concept="7" />
+      <node id="848084820046920434" at="49,63,50,33" concept="7" />
+      <node id="848084820046920434" at="51,5,52,36" concept="7" />
+      <node id="848084820046920434" at="15,0,18,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="848084820046920434" at="23,0,26,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="848084820046920434" at="26,0,29,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="848084820046920434" at="36,0,39,0" concept="8" trace="getDefault#()LComputerLanguage/structure/CoolingType;" />
+      <node id="848084820046920434" at="39,54,42,5" concept="4" />
+      <node id="848084820046920434" at="42,5,45,5" concept="4" />
+      <node id="848084820046920434" at="45,5,48,5" concept="4" />
+      <node id="848084820046920434" at="48,5,51,5" concept="4" />
+      <node id="848084820046920434" at="19,0,23,0" concept="1" trace="CoolingType#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="848084820046920434" at="29,0,36,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="848084820046920434" at="39,0,54,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/CoolingType;" />
+      <scope id="848084820046920434" at="15,27,16,18" />
+      <scope id="848084820046920434" at="23,28,24,19" />
+      <scope id="848084820046920434" at="26,36,27,19" />
+      <scope id="848084820046920434" at="36,42,37,32" />
+      <scope id="848084820046920434" at="40,24,41,38" />
+      <scope id="848084820046920434" at="43,64,44,34" />
+      <scope id="848084820046920434" at="46,69,47,39" />
+      <scope id="848084820046920434" at="49,63,50,33" />
+      <scope id="848084820046920434" at="19,50,21,20" />
+      <scope id="848084820046920434" at="15,0,18,0" />
+      <scope id="848084820046920434" at="23,0,26,0" />
+      <scope id="848084820046920434" at="26,0,29,0" />
+      <scope id="848084820046920434" at="36,0,39,0" />
+      <scope id="848084820046920434" at="19,0,23,0">
+        <var name="name" id="848084820046920434" />
+        <var name="value" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="29,50,34,16">
+        <var name="list" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="29,0,36,0" />
+      <scope id="848084820046920434" at="39,54,52,36" />
+      <scope id="848084820046920434" at="39,0,54,0">
+        <var name="value" id="848084820046920434" />
+      </scope>
+      <unit id="848084820046920434" at="9,0,55,0" name="ComputerLanguage.structure.CoolingType" />
+    </file>
+    <file name="CoolingType_PropertySupport.java">
+      <node id="848084820046920434" at="11,24,12,18" concept="7" />
+      <node id="848084820046920434" at="13,5,14,99" concept="6" />
+      <node id="848084820046920434" at="15,33,16,46" concept="6" />
+      <node id="848084820046920434" at="17,45,18,20" concept="7" />
+      <node id="848084820046920434" at="20,5,21,17" concept="7" />
+      <node id="848084820046920434" at="24,24,25,18" concept="7" />
+      <node id="848084820046920434" at="26,5,27,99" concept="6" />
+      <node id="848084820046920434" at="28,33,29,46" concept="6" />
+      <node id="848084820046920434" at="30,45,31,43" concept="7" />
+      <node id="848084820046920434" at="33,5,34,16" concept="7" />
+      <node id="848084820046920434" at="36,49,37,57" concept="6" />
+      <node id="848084820046920434" at="38,27,39,32" concept="7" />
+      <node id="848084820046920434" at="40,5,41,14" concept="7" />
+      <node id="848084820046920434" at="10,44,13,5" concept="4" />
+      <node id="848084820046920434" at="16,46,19,7" concept="4" />
+      <node id="848084820046920434" at="23,47,26,5" concept="4" />
+      <node id="848084820046920434" at="29,46,32,7" concept="4" />
+      <node id="848084820046920434" at="37,57,40,5" concept="4" />
+      <node id="848084820046920434" at="14,99,20,5" concept="9" />
+      <node id="848084820046920434" at="27,99,33,5" concept="9" />
+      <node id="848084820046920434" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="848084820046920434" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="848084820046920434" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="848084820046920434" at="11,24,12,18" />
+      <scope id="848084820046920434" at="17,45,18,20" />
+      <scope id="848084820046920434" at="24,24,25,18" />
+      <scope id="848084820046920434" at="30,45,31,43" />
+      <scope id="848084820046920434" at="38,27,39,32" />
+      <scope id="848084820046920434" at="15,33,19,7">
+        <var name="constant" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="28,33,32,7">
+        <var name="constant" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="36,49,41,14">
+        <var name="constant" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="36,0,43,0">
+        <var name="value" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="10,44,21,17">
+        <var name="constants" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="23,47,34,16">
+        <var name="constants" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="10,0,23,0">
+        <var name="value" id="848084820046920434" />
+      </scope>
+      <scope id="848084820046920434" at="23,0,36,0">
+        <var name="value" id="848084820046920434" />
+      </scope>
+      <unit id="848084820046920434" at="9,0,44,0" name="ComputerLanguage.structure.CoolingType_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/8966035259255467958">
+    <file name="Chasis.java">
+      <node id="8966035259255467958" at="14,0,15,0" concept="3" trace="myName" />
+      <node id="8966035259255467958" at="15,27,16,18" concept="7" />
+      <node id="8966035259255467958" at="18,0,19,0" concept="3" trace="myValue" />
+      <node id="8966035259255467958" at="19,45,20,18" concept="2" />
+      <node id="8966035259255467958" at="20,18,21,20" concept="2" />
+      <node id="8966035259255467958" at="23,28,24,19" concept="7" />
+      <node id="8966035259255467958" at="26,36,27,19" concept="7" />
+      <node id="8966035259255467958" at="29,45,30,72" concept="6" />
+      <node id="8966035259255467958" at="30,72,31,62" concept="2" />
+      <node id="8966035259255467958" at="31,62,32,62" concept="2" />
+      <node id="8966035259255467958" at="32,62,33,62" concept="2" />
+      <node id="8966035259255467958" at="33,62,34,16" concept="7" />
+      <node id="8966035259255467958" at="36,37,37,29" concept="7" />
+      <node id="8966035259255467958" at="40,24,41,33" concept="7" />
+      <node id="8966035259255467958" at="43,61,44,31" concept="7" />
+      <node id="8966035259255467958" at="46,61,47,31" concept="7" />
+      <node id="8966035259255467958" at="49,61,50,31" concept="7" />
+      <node id="8966035259255467958" at="51,5,52,31" concept="7" />
+      <node id="8966035259255467958" at="15,0,18,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="8966035259255467958" at="23,0,26,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="8966035259255467958" at="26,0,29,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="8966035259255467958" at="36,0,39,0" concept="8" trace="getDefault#()LComputerLanguage/structure/Chasis;" />
+      <node id="8966035259255467958" at="39,49,42,5" concept="4" />
+      <node id="8966035259255467958" at="42,5,45,5" concept="4" />
+      <node id="8966035259255467958" at="45,5,48,5" concept="4" />
+      <node id="8966035259255467958" at="48,5,51,5" concept="4" />
+      <node id="8966035259255467958" at="19,0,23,0" concept="1" trace="Chasis#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="8966035259255467958" at="29,0,36,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="8966035259255467958" at="39,0,54,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/Chasis;" />
+      <scope id="8966035259255467958" at="15,27,16,18" />
+      <scope id="8966035259255467958" at="23,28,24,19" />
+      <scope id="8966035259255467958" at="26,36,27,19" />
+      <scope id="8966035259255467958" at="36,37,37,29" />
+      <scope id="8966035259255467958" at="40,24,41,33" />
+      <scope id="8966035259255467958" at="43,61,44,31" />
+      <scope id="8966035259255467958" at="46,61,47,31" />
+      <scope id="8966035259255467958" at="49,61,50,31" />
+      <scope id="8966035259255467958" at="19,45,21,20" />
+      <scope id="8966035259255467958" at="15,0,18,0" />
+      <scope id="8966035259255467958" at="23,0,26,0" />
+      <scope id="8966035259255467958" at="26,0,29,0" />
+      <scope id="8966035259255467958" at="36,0,39,0" />
+      <scope id="8966035259255467958" at="19,0,23,0">
+        <var name="name" id="8966035259255467958" />
+        <var name="value" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="29,45,34,16">
+        <var name="list" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="29,0,36,0" />
+      <scope id="8966035259255467958" at="39,49,52,31" />
+      <scope id="8966035259255467958" at="39,0,54,0">
+        <var name="value" id="8966035259255467958" />
+      </scope>
+      <unit id="8966035259255467958" at="9,0,55,0" name="ComputerLanguage.structure.Chasis" />
+    </file>
+    <file name="Chasis_PropertySupport.java">
+      <node id="8966035259255467958" at="11,24,12,18" concept="7" />
+      <node id="8966035259255467958" at="13,5,14,89" concept="6" />
+      <node id="8966035259255467958" at="15,33,16,41" concept="6" />
+      <node id="8966035259255467958" at="17,45,18,20" concept="7" />
+      <node id="8966035259255467958" at="20,5,21,17" concept="7" />
+      <node id="8966035259255467958" at="24,24,25,18" concept="7" />
+      <node id="8966035259255467958" at="26,5,27,89" concept="6" />
+      <node id="8966035259255467958" at="28,33,29,41" concept="6" />
+      <node id="8966035259255467958" at="30,45,31,43" concept="7" />
+      <node id="8966035259255467958" at="33,5,34,16" concept="7" />
+      <node id="8966035259255467958" at="36,49,37,47" concept="6" />
+      <node id="8966035259255467958" at="38,27,39,32" concept="7" />
+      <node id="8966035259255467958" at="40,5,41,14" concept="7" />
+      <node id="8966035259255467958" at="10,44,13,5" concept="4" />
+      <node id="8966035259255467958" at="16,41,19,7" concept="4" />
+      <node id="8966035259255467958" at="23,47,26,5" concept="4" />
+      <node id="8966035259255467958" at="29,41,32,7" concept="4" />
+      <node id="8966035259255467958" at="37,47,40,5" concept="4" />
+      <node id="8966035259255467958" at="14,89,20,5" concept="9" />
+      <node id="8966035259255467958" at="27,89,33,5" concept="9" />
+      <node id="8966035259255467958" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="8966035259255467958" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="8966035259255467958" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="8966035259255467958" at="11,24,12,18" />
+      <scope id="8966035259255467958" at="17,45,18,20" />
+      <scope id="8966035259255467958" at="24,24,25,18" />
+      <scope id="8966035259255467958" at="30,45,31,43" />
+      <scope id="8966035259255467958" at="38,27,39,32" />
+      <scope id="8966035259255467958" at="15,33,19,7">
+        <var name="constant" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="28,33,32,7">
+        <var name="constant" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="36,49,41,14">
+        <var name="constant" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="36,0,43,0">
+        <var name="value" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="10,44,21,17">
+        <var name="constants" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="23,47,34,16">
+        <var name="constants" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="10,0,23,0">
+        <var name="value" id="8966035259255467958" />
+      </scope>
+      <scope id="8966035259255467958" at="23,0,36,0">
+        <var name="value" id="8966035259255467958" />
+      </scope>
+      <unit id="8966035259255467958" at="9,0,44,0" name="ComputerLanguage.structure.Chasis_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/8966035259255619157">
+    <file name="GPUName.java">
+      <node id="8966035259255619157" at="18,0,19,0" concept="3" trace="myName" />
+      <node id="8966035259255619157" at="19,27,20,18" concept="7" />
+      <node id="8966035259255619157" at="22,0,23,0" concept="3" trace="myValue" />
+      <node id="8966035259255619157" at="23,46,24,18" concept="2" />
+      <node id="8966035259255619157" at="24,18,25,20" concept="2" />
+      <node id="8966035259255619157" at="27,28,28,19" concept="7" />
+      <node id="8966035259255619157" at="30,36,31,19" concept="7" />
+      <node id="8966035259255619157" at="33,46,34,74" concept="6" />
+      <node id="8966035259255619157" at="34,74,35,94" concept="2" />
+      <node id="8966035259255619157" at="35,94,36,76" concept="2" />
+      <node id="8966035259255619157" at="36,76,37,78" concept="2" />
+      <node id="8966035259255619157" at="37,78,38,85" concept="2" />
+      <node id="8966035259255619157" at="38,85,39,93" concept="2" />
+      <node id="8966035259255619157" at="39,93,40,93" concept="2" />
+      <node id="8966035259255619157" at="40,93,41,97" concept="2" />
+      <node id="8966035259255619157" at="41,97,42,16" concept="7" />
+      <node id="8966035259255619157" at="44,38,45,61" concept="7" />
+      <node id="8966035259255619157" at="48,24,49,34" concept="7" />
+      <node id="8966035259255619157" at="51,93,52,63" concept="7" />
+      <node id="8966035259255619157" at="54,75,55,45" concept="7" />
+      <node id="8966035259255619157" at="57,77,58,47" concept="7" />
+      <node id="8966035259255619157" at="60,84,61,54" concept="7" />
+      <node id="8966035259255619157" at="63,92,64,62" concept="7" />
+      <node id="8966035259255619157" at="66,92,67,62" concept="7" />
+      <node id="8966035259255619157" at="69,96,70,66" concept="7" />
+      <node id="8966035259255619157" at="71,5,72,32" concept="7" />
+      <node id="8966035259255619157" at="19,0,22,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="8966035259255619157" at="27,0,30,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="8966035259255619157" at="30,0,33,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="8966035259255619157" at="44,0,47,0" concept="8" trace="getDefault#()LComputerLanguage/structure/GPUName;" />
+      <node id="8966035259255619157" at="47,50,50,5" concept="4" />
+      <node id="8966035259255619157" at="50,5,53,5" concept="4" />
+      <node id="8966035259255619157" at="53,5,56,5" concept="4" />
+      <node id="8966035259255619157" at="56,5,59,5" concept="4" />
+      <node id="8966035259255619157" at="59,5,62,5" concept="4" />
+      <node id="8966035259255619157" at="62,5,65,5" concept="4" />
+      <node id="8966035259255619157" at="65,5,68,5" concept="4" />
+      <node id="8966035259255619157" at="68,5,71,5" concept="4" />
+      <node id="8966035259255619157" at="23,0,27,0" concept="1" trace="GPUName#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="8966035259255619157" at="33,0,44,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="8966035259255619157" at="47,0,74,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/GPUName;" />
+      <scope id="8966035259255619157" at="19,27,20,18" />
+      <scope id="8966035259255619157" at="27,28,28,19" />
+      <scope id="8966035259255619157" at="30,36,31,19" />
+      <scope id="8966035259255619157" at="44,38,45,61" />
+      <scope id="8966035259255619157" at="48,24,49,34" />
+      <scope id="8966035259255619157" at="51,93,52,63" />
+      <scope id="8966035259255619157" at="54,75,55,45" />
+      <scope id="8966035259255619157" at="57,77,58,47" />
+      <scope id="8966035259255619157" at="60,84,61,54" />
+      <scope id="8966035259255619157" at="63,92,64,62" />
+      <scope id="8966035259255619157" at="66,92,67,62" />
+      <scope id="8966035259255619157" at="69,96,70,66" />
+      <scope id="8966035259255619157" at="23,46,25,20" />
+      <scope id="8966035259255619157" at="19,0,22,0" />
+      <scope id="8966035259255619157" at="27,0,30,0" />
+      <scope id="8966035259255619157" at="30,0,33,0" />
+      <scope id="8966035259255619157" at="44,0,47,0" />
+      <scope id="8966035259255619157" at="23,0,27,0">
+        <var name="name" id="8966035259255619157" />
+        <var name="value" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="33,46,42,16">
+        <var name="list" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="33,0,44,0" />
+      <scope id="8966035259255619157" at="47,50,72,32" />
+      <scope id="8966035259255619157" at="47,0,74,0">
+        <var name="value" id="8966035259255619157" />
+      </scope>
+      <unit id="8966035259255619157" at="9,0,75,0" name="ComputerLanguage.structure.GPUName" />
+    </file>
+    <file name="GPUName_PropertySupport.java">
+      <node id="8966035259255619157" at="11,24,12,18" concept="7" />
+      <node id="8966035259255619157" at="13,5,14,91" concept="6" />
+      <node id="8966035259255619157" at="15,33,16,42" concept="6" />
+      <node id="8966035259255619157" at="17,45,18,20" concept="7" />
+      <node id="8966035259255619157" at="20,5,21,17" concept="7" />
+      <node id="8966035259255619157" at="24,24,25,18" concept="7" />
+      <node id="8966035259255619157" at="26,5,27,91" concept="6" />
+      <node id="8966035259255619157" at="28,33,29,42" concept="6" />
+      <node id="8966035259255619157" at="30,45,31,43" concept="7" />
+      <node id="8966035259255619157" at="33,5,34,16" concept="7" />
+      <node id="8966035259255619157" at="36,49,37,49" concept="6" />
+      <node id="8966035259255619157" at="38,27,39,32" concept="7" />
+      <node id="8966035259255619157" at="40,5,41,14" concept="7" />
+      <node id="8966035259255619157" at="10,44,13,5" concept="4" />
+      <node id="8966035259255619157" at="16,42,19,7" concept="4" />
+      <node id="8966035259255619157" at="23,47,26,5" concept="4" />
+      <node id="8966035259255619157" at="29,42,32,7" concept="4" />
+      <node id="8966035259255619157" at="37,49,40,5" concept="4" />
+      <node id="8966035259255619157" at="14,91,20,5" concept="9" />
+      <node id="8966035259255619157" at="27,91,33,5" concept="9" />
+      <node id="8966035259255619157" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="8966035259255619157" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="8966035259255619157" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="8966035259255619157" at="11,24,12,18" />
+      <scope id="8966035259255619157" at="17,45,18,20" />
+      <scope id="8966035259255619157" at="24,24,25,18" />
+      <scope id="8966035259255619157" at="30,45,31,43" />
+      <scope id="8966035259255619157" at="38,27,39,32" />
+      <scope id="8966035259255619157" at="15,33,19,7">
+        <var name="constant" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="28,33,32,7">
+        <var name="constant" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="36,49,41,14">
+        <var name="constant" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="36,0,43,0">
+        <var name="value" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="10,44,21,17">
+        <var name="constants" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="23,47,34,16">
+        <var name="constants" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="10,0,23,0">
+        <var name="value" id="8966035259255619157" />
+      </scope>
+      <scope id="8966035259255619157" at="23,0,36,0">
+        <var name="value" id="8966035259255619157" />
+      </scope>
+      <unit id="8966035259255619157" at="9,0,44,0" name="ComputerLanguage.structure.GPUName_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/8966035259255698738">
+    <file name="HDDName.java">
+      <node id="8966035259255698738" at="14,0,15,0" concept="3" trace="myName" />
+      <node id="8966035259255698738" at="15,27,16,18" concept="7" />
+      <node id="8966035259255698738" at="18,0,19,0" concept="3" trace="myValue" />
+      <node id="8966035259255698738" at="19,46,20,18" concept="2" />
+      <node id="8966035259255698738" at="20,18,21,20" concept="2" />
+      <node id="8966035259255698738" at="23,28,24,19" concept="7" />
+      <node id="8966035259255698738" at="26,36,27,19" concept="7" />
+      <node id="8966035259255698738" at="29,46,30,74" concept="6" />
+      <node id="8966035259255698738" at="30,74,31,64" concept="2" />
+      <node id="8966035259255698738" at="31,64,32,69" concept="2" />
+      <node id="8966035259255698738" at="32,69,33,74" concept="2" />
+      <node id="8966035259255698738" at="33,74,34,16" concept="7" />
+      <node id="8966035259255698738" at="36,38,37,31" concept="7" />
+      <node id="8966035259255698738" at="40,24,41,34" concept="7" />
+      <node id="8966035259255698738" at="43,63,44,33" concept="7" />
+      <node id="8966035259255698738" at="46,68,47,38" concept="7" />
+      <node id="8966035259255698738" at="49,73,50,43" concept="7" />
+      <node id="8966035259255698738" at="51,5,52,32" concept="7" />
+      <node id="8966035259255698738" at="15,0,18,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="8966035259255698738" at="23,0,26,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="8966035259255698738" at="26,0,29,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="8966035259255698738" at="36,0,39,0" concept="8" trace="getDefault#()LComputerLanguage/structure/HDDName;" />
+      <node id="8966035259255698738" at="39,50,42,5" concept="4" />
+      <node id="8966035259255698738" at="42,5,45,5" concept="4" />
+      <node id="8966035259255698738" at="45,5,48,5" concept="4" />
+      <node id="8966035259255698738" at="48,5,51,5" concept="4" />
+      <node id="8966035259255698738" at="19,0,23,0" concept="1" trace="HDDName#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="8966035259255698738" at="29,0,36,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="8966035259255698738" at="39,0,54,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/HDDName;" />
+      <scope id="8966035259255698738" at="15,27,16,18" />
+      <scope id="8966035259255698738" at="23,28,24,19" />
+      <scope id="8966035259255698738" at="26,36,27,19" />
+      <scope id="8966035259255698738" at="36,38,37,31" />
+      <scope id="8966035259255698738" at="40,24,41,34" />
+      <scope id="8966035259255698738" at="43,63,44,33" />
+      <scope id="8966035259255698738" at="46,68,47,38" />
+      <scope id="8966035259255698738" at="49,73,50,43" />
+      <scope id="8966035259255698738" at="19,46,21,20" />
+      <scope id="8966035259255698738" at="15,0,18,0" />
+      <scope id="8966035259255698738" at="23,0,26,0" />
+      <scope id="8966035259255698738" at="26,0,29,0" />
+      <scope id="8966035259255698738" at="36,0,39,0" />
+      <scope id="8966035259255698738" at="19,0,23,0">
+        <var name="name" id="8966035259255698738" />
+        <var name="value" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="29,46,34,16">
+        <var name="list" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="29,0,36,0" />
+      <scope id="8966035259255698738" at="39,50,52,32" />
+      <scope id="8966035259255698738" at="39,0,54,0">
+        <var name="value" id="8966035259255698738" />
+      </scope>
+      <unit id="8966035259255698738" at="9,0,55,0" name="ComputerLanguage.structure.HDDName" />
+    </file>
+    <file name="HDDName_PropertySupport.java">
+      <node id="8966035259255698738" at="11,24,12,18" concept="7" />
+      <node id="8966035259255698738" at="13,5,14,91" concept="6" />
+      <node id="8966035259255698738" at="15,33,16,42" concept="6" />
+      <node id="8966035259255698738" at="17,45,18,20" concept="7" />
+      <node id="8966035259255698738" at="20,5,21,17" concept="7" />
+      <node id="8966035259255698738" at="24,24,25,18" concept="7" />
+      <node id="8966035259255698738" at="26,5,27,91" concept="6" />
+      <node id="8966035259255698738" at="28,33,29,42" concept="6" />
+      <node id="8966035259255698738" at="30,45,31,43" concept="7" />
+      <node id="8966035259255698738" at="33,5,34,16" concept="7" />
+      <node id="8966035259255698738" at="36,49,37,49" concept="6" />
+      <node id="8966035259255698738" at="38,27,39,32" concept="7" />
+      <node id="8966035259255698738" at="40,5,41,14" concept="7" />
+      <node id="8966035259255698738" at="10,44,13,5" concept="4" />
+      <node id="8966035259255698738" at="16,42,19,7" concept="4" />
+      <node id="8966035259255698738" at="23,47,26,5" concept="4" />
+      <node id="8966035259255698738" at="29,42,32,7" concept="4" />
+      <node id="8966035259255698738" at="37,49,40,5" concept="4" />
+      <node id="8966035259255698738" at="14,91,20,5" concept="9" />
+      <node id="8966035259255698738" at="27,91,33,5" concept="9" />
+      <node id="8966035259255698738" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="8966035259255698738" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="8966035259255698738" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="8966035259255698738" at="11,24,12,18" />
+      <scope id="8966035259255698738" at="17,45,18,20" />
+      <scope id="8966035259255698738" at="24,24,25,18" />
+      <scope id="8966035259255698738" at="30,45,31,43" />
+      <scope id="8966035259255698738" at="38,27,39,32" />
+      <scope id="8966035259255698738" at="15,33,19,7">
+        <var name="constant" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="28,33,32,7">
+        <var name="constant" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="36,49,41,14">
+        <var name="constant" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="36,0,43,0">
+        <var name="value" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="10,44,21,17">
+        <var name="constants" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="23,47,34,16">
+        <var name="constants" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="10,0,23,0">
+        <var name="value" id="8966035259255698738" />
+      </scope>
+      <scope id="8966035259255698738" at="23,0,36,0">
+        <var name="value" id="8966035259255698738" />
+      </scope>
+      <unit id="8966035259255698738" at="9,0,44,0" name="ComputerLanguage.structure.HDDName_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:bfb2846b-062d-4103-8fed-92993a76048d(ComputerLanguage.structure)/9091522320580042730">
+    <file name="WirelessNetworkAdapterName.java">
+      <node id="9091522320580042730" at="16,0,17,0" concept="3" trace="myName" />
+      <node id="9091522320580042730" at="17,27,18,18" concept="7" />
+      <node id="9091522320580042730" at="20,0,21,0" concept="3" trace="myValue" />
+      <node id="9091522320580042730" at="21,65,22,18" concept="2" />
+      <node id="9091522320580042730" at="22,18,23,20" concept="2" />
+      <node id="9091522320580042730" at="25,28,26,19" concept="7" />
+      <node id="9091522320580042730" at="28,36,29,19" concept="7" />
+      <node id="9091522320580042730" at="31,65,32,112" concept="6" />
+      <node id="9091522320580042730" at="32,112,33,92" concept="2" />
+      <node id="9091522320580042730" at="33,92,34,87" concept="2" />
+      <node id="9091522320580042730" at="34,87,35,87" concept="2" />
+      <node id="9091522320580042730" at="35,87,36,87" concept="2" />
+      <node id="9091522320580042730" at="36,87,37,85" concept="2" />
+      <node id="9091522320580042730" at="37,85,38,16" concept="7" />
+      <node id="9091522320580042730" at="40,57,41,59" concept="7" />
+      <node id="9091522320580042730" at="44,24,45,53" concept="7" />
+      <node id="9091522320580042730" at="47,91,48,61" concept="7" />
+      <node id="9091522320580042730" at="50,86,51,56" concept="7" />
+      <node id="9091522320580042730" at="53,86,54,56" concept="7" />
+      <node id="9091522320580042730" at="56,86,57,56" concept="7" />
+      <node id="9091522320580042730" at="59,84,60,54" concept="7" />
+      <node id="9091522320580042730" at="61,5,62,51" concept="7" />
+      <node id="9091522320580042730" at="17,0,20,0" concept="5" trace="getName#()Ljava/lang/String;" />
+      <node id="9091522320580042730" at="25,0,28,0" concept="5" trace="getValue#()Ljava/lang/String;" />
+      <node id="9091522320580042730" at="28,0,31,0" concept="5" trace="getValueAsString#()Ljava/lang/String;" />
+      <node id="9091522320580042730" at="40,0,43,0" concept="8" trace="getDefault#()LComputerLanguage/structure/WirelessNetworkAdapterName;" />
+      <node id="9091522320580042730" at="43,69,46,5" concept="4" />
+      <node id="9091522320580042730" at="46,5,49,5" concept="4" />
+      <node id="9091522320580042730" at="49,5,52,5" concept="4" />
+      <node id="9091522320580042730" at="52,5,55,5" concept="4" />
+      <node id="9091522320580042730" at="55,5,58,5" concept="4" />
+      <node id="9091522320580042730" at="58,5,61,5" concept="4" />
+      <node id="9091522320580042730" at="21,0,25,0" concept="1" trace="WirelessNetworkAdapterName#(Ljava/lang/String;Ljava/lang/String;)V" />
+      <node id="9091522320580042730" at="31,0,40,0" concept="8" trace="getConstants#()Ljava/util/List;" />
+      <node id="9091522320580042730" at="43,0,64,0" concept="8" trace="parseValue#(Ljava/lang/String;)LComputerLanguage/structure/WirelessNetworkAdapterName;" />
+      <scope id="9091522320580042730" at="17,27,18,18" />
+      <scope id="9091522320580042730" at="25,28,26,19" />
+      <scope id="9091522320580042730" at="28,36,29,19" />
+      <scope id="9091522320580042730" at="40,57,41,59" />
+      <scope id="9091522320580042730" at="44,24,45,53" />
+      <scope id="9091522320580042730" at="47,91,48,61" />
+      <scope id="9091522320580042730" at="50,86,51,56" />
+      <scope id="9091522320580042730" at="53,86,54,56" />
+      <scope id="9091522320580042730" at="56,86,57,56" />
+      <scope id="9091522320580042730" at="59,84,60,54" />
+      <scope id="9091522320580042730" at="21,65,23,20" />
+      <scope id="9091522320580042730" at="17,0,20,0" />
+      <scope id="9091522320580042730" at="25,0,28,0" />
+      <scope id="9091522320580042730" at="28,0,31,0" />
+      <scope id="9091522320580042730" at="40,0,43,0" />
+      <scope id="9091522320580042730" at="21,0,25,0">
+        <var name="name" id="9091522320580042730" />
+        <var name="value" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="31,65,38,16">
+        <var name="list" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="31,0,40,0" />
+      <scope id="9091522320580042730" at="43,69,62,51" />
+      <scope id="9091522320580042730" at="43,0,64,0">
+        <var name="value" id="9091522320580042730" />
+      </scope>
+      <unit id="9091522320580042730" at="9,0,65,0" name="ComputerLanguage.structure.WirelessNetworkAdapterName" />
+    </file>
+    <file name="WirelessNetworkAdapterName_PropertySupport.java">
+      <node id="9091522320580042730" at="11,24,12,18" concept="7" />
+      <node id="9091522320580042730" at="13,5,14,129" concept="6" />
+      <node id="9091522320580042730" at="15,33,16,61" concept="6" />
+      <node id="9091522320580042730" at="17,45,18,20" concept="7" />
+      <node id="9091522320580042730" at="20,5,21,17" concept="7" />
+      <node id="9091522320580042730" at="24,24,25,18" concept="7" />
+      <node id="9091522320580042730" at="26,5,27,129" concept="6" />
+      <node id="9091522320580042730" at="28,33,29,61" concept="6" />
+      <node id="9091522320580042730" at="30,45,31,43" concept="7" />
+      <node id="9091522320580042730" at="33,5,34,16" concept="7" />
+      <node id="9091522320580042730" at="36,49,37,87" concept="6" />
+      <node id="9091522320580042730" at="38,27,39,32" concept="7" />
+      <node id="9091522320580042730" at="40,5,41,14" concept="7" />
+      <node id="9091522320580042730" at="10,44,13,5" concept="4" />
+      <node id="9091522320580042730" at="16,61,19,7" concept="4" />
+      <node id="9091522320580042730" at="23,47,26,5" concept="4" />
+      <node id="9091522320580042730" at="29,61,32,7" concept="4" />
+      <node id="9091522320580042730" at="37,87,40,5" concept="4" />
+      <node id="9091522320580042730" at="14,129,20,5" concept="9" />
+      <node id="9091522320580042730" at="27,129,33,5" concept="9" />
+      <node id="9091522320580042730" at="36,0,43,0" concept="5" trace="fromInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <node id="9091522320580042730" at="10,0,23,0" concept="5" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <node id="9091522320580042730" at="23,0,36,0" concept="5" trace="toInternalValue#(Ljava/lang/String;)Ljava/lang/String;" />
+      <scope id="9091522320580042730" at="11,24,12,18" />
+      <scope id="9091522320580042730" at="17,45,18,20" />
+      <scope id="9091522320580042730" at="24,24,25,18" />
+      <scope id="9091522320580042730" at="30,45,31,43" />
+      <scope id="9091522320580042730" at="38,27,39,32" />
+      <scope id="9091522320580042730" at="15,33,19,7">
+        <var name="constant" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="28,33,32,7">
+        <var name="constant" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="36,49,41,14">
+        <var name="constant" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="36,0,43,0">
+        <var name="value" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="10,44,21,17">
+        <var name="constants" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="23,47,34,16">
+        <var name="constants" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="10,0,23,0">
+        <var name="value" id="9091522320580042730" />
+      </scope>
+      <scope id="9091522320580042730" at="23,0,36,0">
+        <var name="value" id="9091522320580042730" />
+      </scope>
+      <unit id="9091522320580042730" at="9,0,44,0" name="ComputerLanguage.structure.WirelessNetworkAdapterName_PropertySupport" />
+    </file>
+  </root>
+</debug-info>
+
